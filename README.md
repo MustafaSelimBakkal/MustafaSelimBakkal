@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustafa Selim Bakkal</h1>
 <h3 align="center">A passionate Full Stack developer from Türkiye</h3>
-<img align="right" alt="Coding" width="400"src="https://giffiles.alphacoders.com/121/12113.gif">
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/ms_selim_75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ms_selim_75" height="30" width="40" /></a>
