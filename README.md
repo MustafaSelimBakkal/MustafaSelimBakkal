@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack developer from Türkiye</h3>
 <img align="right" alt="Coding" width="400"src="https://giffiles.alphacoders.com/121/12113.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafaselimbakkal&label=Profile%20views&color=0e75b6&style=flat" alt="mustafaselimbakkal" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
